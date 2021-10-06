@@ -1,4 +1,4 @@
-# Windows 11 UI Iconsistencies
+# Windows 11 UI Inconsistencies
 The purpose of this project is to list and rank the various inconsistencies across the Windows 11 UI, documenting the improvements as Microsoft cleans up old UI across Windows versions while prioritizing the more relevant ones.
 
 | Surface & issue | Type | 21H2 | Screenshot | GH Issue |
