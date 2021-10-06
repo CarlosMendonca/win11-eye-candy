@@ -15,3 +15,4 @@ The purpose of this project is to list and rank the various inconsistencies acro
 | **Recycle Bin options**  | Sys UI | ❌ Broken on 22000.194 | <img src="./images/recycle_bin.png" alt="Screenshot of Recycle Bin options" width="200px"/> | TK |
 | **Run dialog**  | Sys UI | ❌ Broken on 22000.194 | <img src="./images/run.png" alt="Screenshot of Run dialog" width="200px"/> | TK |
 | **System Properties** <br />Includes settings for hostname, workgroup/AD, eye candy performance, user profiles, boot settings, env vars, system protection/restore, and remote assistance/desktop connection | Sys UI | ❌ Broken on 22000.194 | <img src="./images/system_properties.png" alt="Screenshot of System Properties" width="200px"/> | TK |
+| **Windows Defender** <br />Monochrome icons, wrong background colors, wrong tile style | Sys UI | ❌ Broken on 22000.194 | <img src="./images/defender.png" alt="Screenshot of Windows Defender" width="200px"/> | TK |
